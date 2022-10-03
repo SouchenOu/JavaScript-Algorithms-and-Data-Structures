@@ -1,0 +1,28 @@
+/*class SpaceShuttle {
+  constructor(targetPlanet) {
+    this.targetPlanet = targetPlanet;
+  }
+}
+const zeus = new SpaceShuttle('Jupiter');
+It should be noted that the class keyword declares a new function, to which a constructor is added. This constructor is invoked when new is called to create a new object.
+
+Note: UpperCamelCase should be used by convention for ES6 class names, as in SpaceShuttle used above.
+
+The constructor method is a special method for creating and initializing an object created with a class. You will learn more about it in the Object Oriented Programming section of the JavaScript Algorithms And Data Structures Certification.
+
+Use the class keyword and write a constructor to create the Vegetable class.
+
+The Vegetable class allows you to create a vegetable object with a property name that gets passed to the constructor.
+
+*/
+
+// Only change code below this line
+
+// Only change code above this line
+class Vegetable {
+    constructor(name) {
+        this.name = name;
+    }
+}
+const carrot = new Vegetable('carrot');
+console.log(carrot.name); // Should display 'carrot'
