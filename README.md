@@ -22,3 +22,7 @@ Finished basic js:
 
 
 <img width="1521" alt="Screen Shot 2022-09-18 at 11 33 10 AM" src="https://user-images.githubusercontent.com/87101785/190897761-4d86d6bc-56f3-4b43-a2f3-eeb96580a32e.png">
+
+Finished ES6:
+
+<img width="1521" alt="Screen Shot 2022-10-03 at 2 25 35 PM" src="https://user-images.githubusercontent.com/87101785/193589352-1e7b2bb3-0a6a-4f44-9dff-985db386bd0f.png">
